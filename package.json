@@ -20,7 +20,8 @@
   "author": "Causs",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
+    "@adiwajshing/keyed-db": "^0.2.4",
     "@kagchi/kag-api": "^1.5.5",
     "async": "^2.4.1",
     "axios": "^0.21.0",
